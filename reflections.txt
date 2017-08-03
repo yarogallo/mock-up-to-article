@@ -1,0 +1,19 @@
+1- What new skills have you learned?
+
+ What is HTML, How use it in order to create Web Pages, some of it's elements
+ and features.
+
+2- What has been easy?
+
+I guess that there is nothing easy. Even when you think it is easy.
+
+3- What has been difficult?
+
+For me the most difficult part is when Im on my own and I have to figure out how apply
+the content that I have been learning in the classroom.
+
+4- How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I have a notebook, so I use my notes all the time. When I get stuck, I review the lesson again,
+I do research online(Mozilla Network Developer, Udacity forum, Stack  Overflow) and
+I do everything at my pace because I don't want to be overwhelmed.
