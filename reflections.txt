@@ -15,5 +15,5 @@ the content that I have been learning in the classroom.
 4- How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 I have a notebook, so I use my notes all the time. When I get stuck, I review the lesson again,
-I do research online(Mozilla Network Developer, Udacity forum, Stack  Overflow) and
-I do everything at my pace because I don't want to be overwhelmed.
+I do research online(Mozilla Network Developer, Udacity forum, Stack  Overflow), for extra HTML resources I like reading
+"HTML5 doctor site" because its articles about tags and I also find interesting the official "W3C's HTML specs".
